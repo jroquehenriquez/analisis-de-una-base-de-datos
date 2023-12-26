@@ -65,7 +65,7 @@ Tabla 3: Caractaerísticas asociadas al no éxito - análisis bivariado
 Tabla 4: Factores asociados al no éxito - enfoques epidemiológicos
 
 ## **Materiales**
-Los materiales están disponibles en [este repositorio](https://github.com/jroquehenriquez/Analisis-de-una-base-de-datos "este repositorio"). Si estas familiarizado con GitHub, puedes clonarlo localmente y tener toda la información en un solo lugar.
+Los materiales están disponibles en [este repositorio](https://github.com/jroquehenriquez/analisis-de-una-base-de-datos "este repositorio"). Si estas familiarizado con GitHub, puedes clonarlo localmente y tener toda la información en un solo lugar.
 
 
 
